@@ -3,7 +3,7 @@
 ## v1.1.2 (2026-04)
 
 ### Bug Fixes
-- Fixed character appearing on non-chat pages (My Stuff, etc.)
+- Fixed character appearing on non-chat pages (My Stuff, etc.) — reported by [@Dotori0309](https://github.com/Dotori0309)
 
 ## v1.1.1 (2026-04)
 
