@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.4 (2026-04)
+
+### Bug Fixes
+- Fixed injected header decorations (operator name, cyan bars, dots, ticket, persons, gray block) overlapping with the model selector and right-side icons on narrow screens (≤959px)
+
 ## v1.1.3 (2026-04)
 
 ### Bug Fixes
