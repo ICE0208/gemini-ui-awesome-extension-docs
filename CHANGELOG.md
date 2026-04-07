@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.3 (2026-04)
+
+### Bug Fixes
+- Fixed cursor overlapping with placeholder text in input field
+- Fixed 1px gap between character and input field
+
 ## v1.1.2 (2026-04)
 
 ### Bug Fixes
