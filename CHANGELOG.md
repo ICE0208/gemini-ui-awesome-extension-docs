@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.5 (2026-04)
+
+### Bug Fixes
+- Fixed character appearing on Notebook pages and overlapping with notebook title — character now only displays on the main chat page (`/app`)
+- Fixed unnecessary video playback when returning to a tab on non-chat pages
+
 ## v1.1.4 (2026-04)
 
 ### Bug Fixes
