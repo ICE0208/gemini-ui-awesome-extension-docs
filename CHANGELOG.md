@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.7 (2026-04)
+
+### Changes
+- Bundled JetBrains Mono font locally (removed Google Fonts CDN dependency)
+- Extension now renders mono-spaced UI labels offline and no longer pings Google Fonts at runtime
+- Included SIL Open Font License 1.1 for the bundled font (`assets/fonts/OFL.txt`)
+
 ## v1.1.6 (2026-04)
 
 ### Bug Fixes
