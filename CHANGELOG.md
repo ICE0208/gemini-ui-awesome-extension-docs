@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.6 (2026-04)
+
+### Bug Fixes
+- Fixed Tactical_Input label, scroll-to-bottom button, and prompt indicator (`>_`) disappearing when the input area is re-created during SPA transitions
+- Fixed loading dots intermittently not appearing on the first message of a new chat due to stale chat-history observer reference
+- Cleaned up accumulated scroll listeners and ResizeObservers that were leaking on repeated input area re-creation
+
 ## v1.1.5 (2026-04)
 
 ### Bug Fixes
