@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.8 (2026-04)
+
+### Bug Fixes
+- Fixed character animation freezing when returning to the tab after a long idle period and starting a new chat
+
 ## v1.1.7 (2026-04)
 
 ### Changes
