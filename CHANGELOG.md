@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.9 (2026-04)
+
+### Bug Fixes
+- Fixed character fade-in overlapping the previous conversation for a brief moment when clicking "New Chat" from inside an active chat
+
 ## v1.1.8 (2026-04)
 
 ### Bug Fixes
