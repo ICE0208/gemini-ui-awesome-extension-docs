@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.10 (2026-04)
+
+### Bug Fixes
+- Fixed top-right profile avatar showing as fully transparent after a recent Gemini UI update
+
 ## v1.1.9 (2026-04)
 
 ### Bug Fixes
